@@ -1,1 +1,2 @@
 # pair-scratch
+Temporary repository.
